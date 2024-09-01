@@ -17,7 +17,7 @@ const Footer = () => {
   const { theme } = useTheme();
 
   return (
-    <div className="font-[roboto] grid grid-cols-5 py-2 md:hidden absolute inset-x-0 bottom-0 z-20 bg-white dark:bg-black border-t-2 border-slate-200 dark:border-[#292929]">
+    <div className="font-[roboto] grid grid-cols-5 py-2 md:hidden fixed inset-x-0 bottom-0 z-20 bg-white dark:bg-black border-t-2 border-slate-200 dark:border-[#292929]">
       <div className="flex flex-col items-center">
         {theme ? (
           <img className="w-6" src={homedark} alt="home" />
