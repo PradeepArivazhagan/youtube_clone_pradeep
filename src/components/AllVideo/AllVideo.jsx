@@ -49,12 +49,12 @@ const videosList = [
   },
   {
     id: 6,
-    thumbnail: "https://i9.ytimg.com/vi/hSi_x29bBmE/hq720_custom_1.jpg?sqp=CIzyzrYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXXPbgx7PzJ6dmvCLGUiSZoCTHyg",
+    thumbnail: "https://i.ytimg.com/vi/M3mGY0pgFk0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5jsKa9OxS5YN0CC6yNZ_vYp1rpQ",
     channelLogo: "https://yt3.ggpht.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s68-c-k-c0x00ffffff-no-rj",
-    title: "How to Build and Deploy a Portfolio with Next.js that Will Land You Jobs",
+    title: "I Cannot Believe React Made A Hook For This",
     channelName: "Web Dev Simplified",
-    views: "15K",
-    uploadTime: "3 days ago",
+    views: "103K",
+    uploadTime: "1 year ago",
   },
   {
     id: 7,
