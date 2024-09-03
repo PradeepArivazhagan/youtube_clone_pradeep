@@ -2,20 +2,20 @@ import React from "react";
 import { useTheme } from "../../context/Context";
 
 //Light Mode Icons
-import menu from "../../assets/menu.svg";
-import search from "../../assets/search.svg";
-import mic from "../../assets/mic.svg";
-import camera from "../../assets/camera.svg";
-import bell from "../../assets/bell.svg";
-import youtubeLogo from "../../assets/youtubeLogo.svg";
+import menu from "../../assets/LightMode/menu.svg";
+import search from "../../assets/LightMode/search.svg";
+import mic from "../../assets/LightMode/mic.svg";
+import camera from "../../assets/LightMode/camera.svg";
+import bell from "../../assets/LightMode/bell.svg";
+import youtubeLogo from "../../assets/LightMode/youtubeLogo.svg";
 
 //Dark Mode Icons
-import menudark from "../../assets/menudark.svg";
-import searchdark from "../../assets/searchdark.svg";
-import micdark from "../../assets/micdark.svg";
-import cameradark from "../../assets/cameradark.svg";
-import belldark from "../../assets/belldark.svg";
-import youtubeLogoDark from "../../assets/youtubeDark.svg";
+import menudark from "../../assets/DarkMode/menudark.svg";
+import searchdark from "../../assets/DarkMode/searchdark.svg";
+import micdark from "../../assets/DarkMode/micdark.svg";
+import cameradark from "../../assets/DarkMode/cameradark.svg";
+import belldark from "../../assets/DarkMode/belldark.svg";
+import youtubeLogoDark from "../../assets/DarkMode/youtubeDark.svg";
 
 const Header = () => {
   const { theme, toggleTheme, toggleMenu } = useTheme();

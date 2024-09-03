@@ -1,8 +1,8 @@
 import React from "react";
 
 //Icons
-import threedots from "../../assets/threedots.svg";
-import dot from "../../assets/dot.svg";
+import threedots from "../../assets/LightMode/threedots.svg";
+import dot from "../../assets/LightMode/dot.svg";
 
 const Video = (props) => {
   const {videoDetails} = props

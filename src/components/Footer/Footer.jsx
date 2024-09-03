@@ -2,16 +2,16 @@ import React from "react";
 import { useTheme } from "../../context/Context";
 
 //Light Mode Icons
-import home from "../../assets/home.svg";
-import shorts from "../../assets/shorts.svg";
-import camera from "../../assets/camera.svg";
-import subscription from "../../assets/subscription.svg";
+import home from "../../assets/LightMode/home.svg";
+import shorts from "../../assets/LightMode/shorts.svg";
+import camera from "../../assets/LightMode/camera.svg";
+import subscription from "../../assets/LightMode/subscription.svg";
 
 //Dark Mode Icons
-import homedark from "../../assets/homedark.svg";
-import shortsdark from "../../assets/shortsdark.svg";
-import cameradark from "../../assets/cameradark.svg";
-import subscriptiondark from "../../assets/subscriptiondark.svg";
+import homedark from "../../assets/DarkMode/homedark.svg";
+import shortsdark from "../../assets/DarkMode/shortsdark.svg";
+import cameradark from "../../assets/DarkMode/cameradark.svg";
+import subscriptiondark from "../../assets/DarkMode/subscriptiondark.svg";
 
 const Footer = () => {
   const { theme } = useTheme();
